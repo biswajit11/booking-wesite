@@ -58,7 +58,7 @@ nav.black ul li a{
 nav ul li a.active,
 nav ul li a:hover{
     color: #fff;
-    background: blue;
+    background: cyan;
 }
 section.sec1{
     width: 100%;
@@ -79,7 +79,7 @@ section.sec1 h1{
 }
 section.sec1 h4{
     position: relative;
-    top: 40%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
@@ -90,7 +90,7 @@ section.sec1 button {
   margin: 0;
   position: relative;  
   border: none;
-  border-radius: 15px;
+  border-radius: 20px;
   outline: 0;  
   display: block;
   top: 45%;
